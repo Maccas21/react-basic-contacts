@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# React-basic-contacts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-The hosted website can be found [HERE](https://react-basic-contacts.firebaseapp.com/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Firebase was used to host this react project and can be found [HERE](https://react-basic-contacts.firebaseapp.com/)
 
 ## APIs and Frameworks
 - [Material-UI](https://material-ui.com/)
