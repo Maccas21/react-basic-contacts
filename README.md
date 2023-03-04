@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The hosted website can be found [HERE](https://react-basic-contacts.firebaseapp.com/)
+
+## APIs and Frameworks
+- [Material-UI](https://material-ui.com/)
+- [{JSON} PlaceHolder](https://jsonplaceholder.typicode.com/)
+- [Firebase](https://firebase.google.com/)
 
 ## Available Scripts
 
